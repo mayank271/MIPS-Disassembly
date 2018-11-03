@@ -1,5 +1,9 @@
 # MIPS-Disassembly
-C++ Code for MIPS32 Disassembly
+C++ Code for MIPS32 Disassembly<br>
+Given an 32-bit instruction in its hex form, the code returns the type of the instruction
+as well the decoded instruction.<br>
+For eg.,> Input -> 80860000 <br>
+        > Output -> I lb $a2, 0($a0)
 
 # Compile as
 g++ -o out main.cpp MIPS_functions.cpp
