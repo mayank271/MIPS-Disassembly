@@ -14,8 +14,9 @@ g++ -o out main.cpp MIPS_functions.cpp
 ./out
 ```
 ```
-Input: 80860000 <br>
-Output: I <br> lb $a2, 0($a0)<br>
+Input: 80860000
+Output: I 
+      lb $a2, 0($a0)
 ```
 ## References
 http://alumni.cs.ucr.edu/~vladimir/cs161/mips.html<br>
