@@ -7,16 +7,16 @@ as well the decoded instruction<br>
 A recent version of GCC (7.2.0 or later)
 
 ## Compile as
-'''
+```
 g++ -o out main.cpp MIPS_functions.cpp
-'''
-'''
+```
+```
 ./out
-'''
-'''
+```
+```
 Input: 80860000 <br>
 Output: I <br> lb $a2, 0($a0)<br>
-'''
+```
 ## References
 http://alumni.cs.ucr.edu/~vladimir/cs161/mips.html<br>
 https://inst.eecs.berkeley.edu/~cs61c/resources/MIPS_help.html<br>
