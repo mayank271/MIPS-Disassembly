@@ -1,5 +1,7 @@
 # MIPS-Disassembly
-## C++ Code for MIPS32 Disassembly
+C++ Code for MIPS32 Disassembly
+
+## Description
 Given a 32-bit instruction in its hex form, the code returns the type of the instruction
 as well the decoded instruction.<br>
 
