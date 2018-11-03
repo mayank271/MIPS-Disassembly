@@ -6,7 +6,7 @@ as well the decoded instruction<br>
 ## Prerequisites
 A recent version of GCC (7.2.0 or later)
 
-## Compile as
+## Running the code
 ```
 g++ -o out main.cpp MIPS_functions.cpp
 ```
