@@ -15,11 +15,5 @@ int main() {
     cout << input(a)[0] <<endl;
     cout << input(a)[1];
 
-    /**
-     * For taking input from a file.
-     * Each instruction should be on a separate line
-     * in the specified file.
-     */
-
     return 0;
 }
