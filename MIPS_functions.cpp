@@ -5,6 +5,8 @@
 
 #define I_SIZE 8
 
+//Other functions yet to be added
+
 /**
  * Takes input from the command line, validates it and then
    disassembles it into the corresponding instruction,
