@@ -12,7 +12,13 @@ int main() {
      */
     string a;
     cin >> a;
+    /**
+     * Print the Type of instruction
+     */
     cout << input(a)[0] <<endl;
+    /**
+     * Print the Decoded instruction
+     */
     cout << input(a)[1];
 
     return 0;
